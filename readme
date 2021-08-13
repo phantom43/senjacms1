@@ -1,0 +1,32 @@
+Simple cms by senja :
+kontak saya :
+t.me/SenjaRaha
+wa.me/6283135026072
+SenjaID@protonmail.ch
+                                                                                                    
+   ▄▄▄▄                           ██  simple cms v1.0.0                           ▄▄▄▄▄▄         ▄▄ 
+ ▄█▀▀▀▀█                          ▀▀               ██▀▀▀██               ██       ▀▀██▀▀         ██ 
+ ██▄        ▄████▄   ██▄████▄   ████      ▄█████▄  ██    ██   ▄████▄   ███████      ██      ▄███▄██ 
+  ▀████▄   ██▄▄▄▄██  ██▀   ██     ██      ▀ ▄▄▄██  ██    ██  ██▀  ▀██    ██         ██     ██▀  ▀██ 
+      ▀██  ██▀▀▀▀▀▀  ██    ██     ██     ▄██▀▀▀██  ██    ██  ██    ██    ██         ██     ██    ██ 
+ █▄▄▄▄▄█▀  ▀██▄▄▄▄█  ██    ██     ██     ██▄▄▄███  ██▄▄▄██   ▀██▄▄██▀    ██▄▄▄    ▄▄██▄▄   ▀██▄▄███ 
+  ▀▀▀▀▀      ▀▀▀▀▀   ▀▀    ▀▀     ██      ▀▀▀▀ ▀▀  ▀▀▀▀▀       ▀▀▀▀       ▀▀▀▀    ▀▀▀▀▀▀     ▀▀▀ ▀▀ 
+                               ████▀                                                                
+ ************************************************************                                                                                                   
+cara membuat username dan password ;
+*buka phpmyadmin create database nama "database"
+*buat table dengan nama "user"
+
+*************************************************************
+
+membuat menu sendiri ;
+*silahkan ke "/admin/buat.php" 
+*cari sebuah kata "edit di sini"
+*paste kan link yang di inginkan e.x: <a href="index.html">Index</a>
+*************************************************************
+credit :
+back end : senja
+front end : senja
+thanks:
+google , grup puyeng , 
+nantinya saya akan memperbarui tampilan dan fitur nya 

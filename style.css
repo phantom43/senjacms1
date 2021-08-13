@@ -1,0 +1,86 @@
+* {
+	margin: 0;
+}
+
+h1 {
+
+	color: orange;
+	font-family: Courier new;
+	background-color: #517fb7;
+}
+br {
+	color : red;
+	outline-color: black;
+}	
+.body {
+	text-align: left;
+	background-color: brown;
+	border-radius: 5px;
+	color:white;
+	font-family: cursive;
+}
+.buat {
+	background-color: yellow;
+	border-radius: 5px;
+}
+.container {
+	background-color: #7ad0ab;
+	border-radius: 5px;
+}
+p {
+	color: white;
+	text-align: left;
+	font-family: cursive;
+	font-size: 25px;
+}
+.footer {
+	color: #517fb7;
+	background-color: #3ad896;
+	border-radius: 5px; 
+}
+.mainmenubtn {
+    background-color: red;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+ }
+ .dropdown {
+    position: relative;
+    display: inline-block;
+ }
+ .dropdown-child {
+    display: none;
+    background-color: black;
+    min-width: 500px;
+ }
+ .dropdown-child a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+ }
+ .dropdown:hover .dropdown-child {
+    display: block;
+ }
+button {
+    background-color: #517fb7;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
+.buttonme{
+	background-color: #517fb7;
+	border: none;
+}
+li {
+	text-decoration: none;
+	text-align: center;
+}
+ul {
+	text-decoration: none;
+	text-align: center;
+}
